@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c141d3d-4c80-4d0f-8521-4310cf77b7f4" name="Changes" comment="cambiosMat">
-      <change beforePath="$PROJECT_DIR$/src/polonorte/Reno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polonorte/Reno.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c141d3d-4c80-4d0f-8521-4310cf77b7f4" name="Changes" comment="linea29volandovengo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -49,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708423181802</updated>
-      <workItem from="1709539347767" duration="458000" />
+      <workItem from="1709539347767" duration="994000" />
     </task>
     <task id="LOCAL-00001" summary="cambiosMat">
       <created>1709539683949</created>
@@ -65,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709539689025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="linea29volandovengo">
+      <created>1709539837272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709539837272</updated>
+    </task>
+    <task id="LOCAL-00004" summary="linea29volandovengo">
+      <created>1709539857683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709539857683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cambiosMat" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambiosMat" />
+    <MESSAGE value="linea29volandovengo" />
+    <option name="LAST_COMMIT_MESSAGE" value="linea29volandovengo" />
   </component>
 </project>
