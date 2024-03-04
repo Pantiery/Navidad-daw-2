@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c141d3d-4c80-4d0f-8521-4310cf77b7f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1c141d3d-4c80-4d0f-8521-4310cf77b7f4" name="Changes" comment="cambiosMat">
+      <change beforePath="$PROJECT_DIR$/src/polonorte/Reno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polonorte/Reno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +49,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708423181802</updated>
-      <workItem from="1709539347767" duration="122000" />
+      <workItem from="1709539347767" duration="458000" />
     </task>
+    <task id="LOCAL-00001" summary="cambiosMat">
+      <created>1709539683949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709539683949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambiosMat">
+      <created>1709539689025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709539689025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,11 +81,27 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/ramaMat" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cambiosMat" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambiosMat" />
   </component>
 </project>
